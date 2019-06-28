@@ -14,3 +14,13 @@ The aim of this challenge is to train an LSTM to solve the XOR problem. This pro
 - [ ] **CLASSIC_SNAKE:** ⭐
 
 In this challenge, one is to come up with an implementation of the classic snake game as a Gym environment and then solve the environment using a reinforcement learning algorithm.
+
+## Challenges
+
+- [ ] **SLITHERIN’:** ⭐⭐
+
+This challenge involves Implementing and solving a multiplayer clone of the classic Snake game as a Gym environment.
+
+The environment is specified to be one that has a large field with multiple snakes with each snake being able to eat randomly appearing fruits while avoiding any form of collision with all snakes (including itself) and the walls. The game ends when all snakes are dead.
+
+The environment is to be solved using self-play and the learned behaviour of the agent is to be inspected to see if it tries to completely search for food, try to attack other snakes or just avoid collision.
