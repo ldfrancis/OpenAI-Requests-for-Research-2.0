@@ -3,7 +3,7 @@ This repository will contain my implementations of solutions to the challenges d
 
 ## Challenges
 
-- [x] **SLITHERIN’:** ⭐⭐
+- [x] [**SLITHERIN’:**](SLITHERIN’) ⭐⭐
 
 This challenge involves Implementing and solving a multiplayer clone of the classic Snake game as a Gym environment.
 
