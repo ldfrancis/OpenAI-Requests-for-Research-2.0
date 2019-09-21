@@ -1,5 +1,5 @@
 # SLITHERIN'
-
+![](poster/env.jpg)
 ### Motivation
 The primary motivation behind this project is to assess the behaviour that agents acquire in a multiplayer snake game environment when trained using a reinforcement learning algorithm with self-play. Also, this project tries to tackle the challenge termed Slitherin’  in the openai's "request for research 2.0".
 
@@ -43,4 +43,4 @@ An agent gets a reward of +30 when it eats a fruit and -100 if it dies. The envi
   This instantiates and environment with 4 snakes and renders the environment while taking agents' action from a policy network saved in the folder 'train_agents'.
   
 ### Poster
-[![](poster.jpg)]()
+[![](poster/poster.jpg)](poster/poster.pdf)

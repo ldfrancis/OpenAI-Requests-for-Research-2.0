@@ -105,3 +105,4 @@ venv.bak/
 
 # visual studio code
 .DS_Store
+gym_slitherin.egg-info
