@@ -1,5 +1,6 @@
 # SLITHERIN'
 
+
 ### Motivation
 The primary motivation behind this project is to assess the behaviour that agents acquire in a multiplayer snake game environment when trained using a reinforcement learning algorithm with self-play. Also, this project tries to tackle the challenge termed Slitherin’[5]  in the openai's "request for research 2.0".
 
