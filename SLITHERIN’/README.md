@@ -34,13 +34,13 @@ An agent gets a reward of +30 when it eats a fruit and -100 if it dies. The envi
   ```Shell
   python train.py --env 4 --render --model train_agents
   ```
-  This instantiates and environment with 4 snakes and renders the environment while training networks to be saved in the folder 'train_agents' to solve the environment
+  This instantiates an environment with 4 snakes and renders the environment while training networks to be saved in the folder 'train_agents' to solve the environment
   
 2. Test trained policies: while in the SLITHERIN' directory,
   ```Shell
   python policy_test.py --env 4 --model train_agents
   ```
-  This instantiates and environment with 4 snakes and renders the environment while taking agents' action from a policy network saved in the folder 'train_agents'.
+  This instantiates an environment with 4 snakes and renders the environment while taking agents' action from a policy network saved in the folder 'train_agents'.
   
 ### Poster
 [![](poster/poster.jpg)](poster/poster.pdf)
