@@ -18,7 +18,7 @@ An agent gets a reward of +30 when it eats a fruit and -100 if it dies. The envi
 ### Installation
 1. Clone the repository
   ```Shell
-  https://github.com/ldfrancis/OpenAI-Requests-for-Research-2.0.git
+  git clone https://github.com/ldfrancis/OpenAI-Requests-for-Research-2.0.git
   ```
 2. Go to the SLITHERIN' directory
   ```Shell
